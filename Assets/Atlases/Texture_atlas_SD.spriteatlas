@@ -1,0 +1,137 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Texture_atlas_SD
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 2
+      m_CompressionQuality: 90
+      m_CrunchedCompression: 1
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    variantMultiplier: 0.5
+    packables:
+    - {fileID: 102900000, guid: e667b76d1696e3a4bad27b2806cd663b, type: 3}
+    totalSpriteSurfaceArea: 1364258
+    bindAsDefault: 0
+  m_MasterAtlas: {fileID: 4343727234628468602, guid: 62baea7d970e5cb45ba11351d5e4262e,
+    type: 2}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 9d486460fde175c429c3d9ec3add88ee, type: 3}
+  - {fileID: 21300000, guid: a2c0c780c7c20c64095974ed908a577b, type: 3}
+  - {fileID: 21300000, guid: 1d3f13902189410469ac06f74edd1c51, type: 3}
+  - {fileID: 21300000, guid: c4d6c490533bcf54e856f1557308abb6, type: 3}
+  - {fileID: 21300000, guid: 50a983210b28ec44f9e73c5ea0f8d877, type: 3}
+  - {fileID: 21300000, guid: 0cb167a1be58bee48a507dea393c41d4, type: 3}
+  - {fileID: 21300000, guid: f8cea9a1da54e14409bbc1f97e52345f, type: 3}
+  - {fileID: 21300000, guid: 4eae78f17e7c53046b6ad49312016406, type: 3}
+  - {fileID: 21300000, guid: 30416d723a7594b40be5ade6230a6df0, type: 3}
+  - {fileID: 21300000, guid: 1e08ee92aabf9b841b66b9f721ab98ef, type: 3}
+  - {fileID: 21300000, guid: 072ffd730e8198645a2f2e0a390b0803, type: 3}
+  - {fileID: 21300000, guid: 9a1d9fe3bd5c644449ee7cd126770747, type: 3}
+  - {fileID: 21300000, guid: fff887a47a2f2424d9b47783a028f908, type: 3}
+  - {fileID: 21300000, guid: cee372d428b4cbc46870e589beda7c33, type: 3}
+  - {fileID: 21300000, guid: f4d20ed452de0ac47a1c25d95cb05b8f, type: 3}
+  - {fileID: 21300000, guid: 076d548546b40ed42b3f29f3ae9364a2, type: 3}
+  - {fileID: 21300000, guid: 45b2f12615f05624d847f74a0baddef4, type: 3}
+  - {fileID: 21300000, guid: 57ca514672821ba4c8e853234974ba5e, type: 3}
+  - {fileID: 21300000, guid: 51850ba6e6b06944c8514bc6570cb49c, type: 3}
+  - {fileID: 21300000, guid: 5378d2d64b17d0248b3dbd18fd5c4f13, type: 3}
+  - {fileID: 21300000, guid: 731439c7c4f8377479d46a4525c16094, type: 3}
+  - {fileID: 21300000, guid: ab81ce5806d119d4f9ddc23709f5f417, type: 3}
+  - {fileID: 21300000, guid: f1532b49313c9424b9374ccb56fd7f67, type: 3}
+  - {fileID: 21300000, guid: e41e7499c54f9f9479b38a4b81cb0e54, type: 3}
+  - {fileID: 21300000, guid: 41a34599a8df0ff4289e7e0176fba744, type: 3}
+  - {fileID: 21300000, guid: 994edc8a02bbeea4a8171205f34016b3, type: 3}
+  - {fileID: 21300000, guid: 336473ca4815e704383f387e8de9a614, type: 3}
+  - {fileID: 21300000, guid: bdfa525b1bd2b1e498d577f548f81dcc, type: 3}
+  - {fileID: 21300000, guid: d72d635be19bb2c44aec2285927c6a42, type: 3}
+  - {fileID: 21300000, guid: 4aa328cbc33c5a344bc1d28396cf80ef, type: 3}
+  - {fileID: 21300000, guid: 9e5dfb3cd1f70e34b91f6ac71ae53786, type: 3}
+  - {fileID: 21300000, guid: 4287d4dc1d0a6f840ba394a43cc5aaed, type: 3}
+  - {fileID: 21300000, guid: 5b35561df3a368a4289645c6026997a8, type: 3}
+  - {fileID: 21300000, guid: 5ea9482da542b4b40bc7d1011bafcddb, type: 3}
+  - {fileID: 21300000, guid: 8654034d273fb0546bdca8b0357fdebb, type: 3}
+  - {fileID: 21300000, guid: 36475c7de095ab2429e60ee8469c2c88, type: 3}
+  - {fileID: 21300000, guid: 2dc3b5ede0857c940838e28c944e2647, type: 3}
+  - {fileID: 21300000, guid: 0d01d34e00a9ea74c8028698f31fb9fd, type: 3}
+  - {fileID: 21300000, guid: 95520c4e7413a7345a434510de9d7593, type: 3}
+  - {fileID: 21300000, guid: 3bdaa2ae7fb85a4448beab456e9202eb, type: 3}
+  - {fileID: 21300000, guid: a50b67de2d411db4ba1b31425c40cf8e, type: 3}
+  - {fileID: 21300000, guid: a4d7350fa13944345a32d6683eb20f8a, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Chat_tab_back
+  - Chat_icon_player_3
+  - Back_icon_attainmen
+  - Chat_icon_player_2
+  - Chat_main_translate_icon
+  - Chat_main_message_zone
+  - Chat_icon
+  - Back_panel_factory
+  - Chat_icon_global
+  - Back_icon_free_bonus
+  - Background_SC50
+  - Chat_tab_inactive
+  - Chat_main_notice_line
+  - Chat_scroll_main
+  - Back_icon_shop
+  - Chat_main_shadow_top
+  - Chat_solid_back
+  - Back_icon_top
+  - Back_icon_settings
+  - Chat_main_message_btn
+  - Back_icon_grader
+  - Chat_main_notice_back
+  - Back_panel_homes
+  - Back_panel_humans
+  - Back_panel_star
+  - Chat_icon_player_1
+  - Back_icon_casino
+  - Chat_main_message_line
+  - Chat_icon_brilliant
+  - "Back_icon_\u0441one"
+  - Back_panel_cash
+  - Chat_window_no_clan_flare
+  - Chat_scroll_back
+  - Chat_back
+  - Chat_notification_icon
+  - Back_icon_profile
+  - Back_panel_coins
+  - Chat_tab_active
+  - Chat_main_shadow_bot
+  - Chat_no_clan_btn
+  - Chat_main_translate_icon_inactive
+  - Chat_icon_clan
+  m_Tag: Texture_atlas_HD
+  m_IsVariant: 1
